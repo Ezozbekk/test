@@ -1,0 +1,80 @@
+.parent{
+    display: flex;
+    padding: 1px;
+    background-color: rgb(211, 93, 190);
+    border-radius: 10px;
+    justify-content: flex-start;
+    width: 50%;
+   
+
+    
+}
+.child{
+    padding: 10px 15px;
+    background-color:  rgb(255, 135, 50);
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 10px;
+   
+}
+
+.parent2{
+    margin: 3px;
+    display: flex;
+    padding: 1px;
+    background-color: rgb(211, 93, 190);
+    border-radius: 10px;
+    justify-content: flex-end;
+    width: 50%;
+   
+   
+}
+.child2{
+  
+    padding: 10px 15px;
+    background-color: rgb(255, 135, 50);
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 10px;
+    
+   
+}
+
+.parent3{
+    display: flex;
+    padding: 1px;
+    background-color: rgb(211, 93, 190);
+    border-radius: 10px;
+    flex-direction: column;
+    width: 50%; 
+   
+}
+
+.child3{
+    padding: 10px;
+    background-color:  rgb(255, 135, 50);
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 10px;
+    width: 0.5cm;
+    
+    
+}
+
+.parent4{
+    display: flex;
+    padding: 1px;
+    background-color: rgb(211, 93, 190);
+    border-radius: 10px;
+    flex-direction: column;
+    width: 50%; 
+    margin: 3px;
+}
+.child4{
+    padding: 10px ;
+    background-color:  rgb(255, 135, 50);
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 10px;
+    width: 0.5cm;
+}

@@ -1,0 +1,129 @@
+div{
+  border-radius: 10px;
+}
+.box{
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  background-color: blueviolet;
+}
+.child-box{
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 70px;
+  background-color: blue;
+}
+.box1 {
+  width: 100%;
+  margin-top: 10px;
+  height: 80px;
+  display: flex; 
+  align-items: center;
+  justify-content: end;
+  background-color: blueviolet;
+}
+.child-box1{
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 70px;
+  background-color: blue;
+}
+.box2 {
+  width: 100%;
+  margin-top: 10px;
+  height: 80px;
+  display: flex; 
+  align-items: center;
+  justify-content: end;
+  background-color: blueviolet;
+}
+.child-box2{
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 70px;
+  background-color: blue;
+}
+.box3 {
+  width: 100%;
+  margin-top: 10px;
+  height: 80px;
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  background-color: blueviolet;
+}
+.child-box3{
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 70px;
+  background-color: blue;
+}
+.box4 {
+  width: 100%;
+  margin-top: 10px;
+  height: 80px;
+  display: flex; 
+  align-items: center;
+  justify-content: space-between;
+  background-color: blueviolet;
+}
+.child-box4{
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 70px;
+  background-color: blue;
+}
+.box5 {
+  width: 100%;
+  margin-top: 10px;
+  height: 80px;
+  display: flex; 
+  align-items: center;
+  justify-content: space-around;
+  background-color: blueviolet;
+}
+.child-box5{
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 70px;
+  background-color: blue;
+}
+.box6 {
+  width: 100%;
+  margin-top: 10px;
+  height: 80px;
+  display: flex; 
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: blueviolet;
+}
+.child-box6{
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 70px;
+  background-color: blue;
+}
+
+

@@ -1,0 +1,21 @@
+.parent{
+   
+    display: flex;
+    padding: 1px;
+    background-color: rgb(17, 8, 15);
+    color: aliceblue;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+.child{
+    padding: 10px 15px;
+    background-color:  rgb(255, 135, 50);
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 10px;
+}
+.child{
+    
+
+}

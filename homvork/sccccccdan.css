@@ -1,0 +1,37 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    width: 100%;
+    height: 100pv;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+}
+.child{
+    width: 100px;
+    height: 100px;
+    border: 1px solid blue;
+}
+.child:hover{
+    background-color: red;
+}
+.box5{
+    order: 1;
+}
+.box1{
+    order: 3;
+}
+.box2{
+    order: 4;
+}
+.box3{
+    order: 2;
+}
+.box6{
+    order: 6;
+}
+.box4{
+    order: 5;
+}

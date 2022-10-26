@@ -1,0 +1,33 @@
+div{
+    width: 300px;
+    height: 50px;
+    border: 1px solid red;
+    margin: 10px;
+}
+.box1{
+    float: left;
+    width: 100%;
+}
+.box2{
+    float: left;
+    width: 100%;
+}
+.box3{
+    float: left;
+    width: 50%;
+}
+.box4{
+    float: left;
+    width: 50%;
+}
+.box5{
+    float: right;
+    height: 100px;
+    width: 47%;
+    height: 140px;
+    margin-top: -70px;
+}
+.box6{
+    float: left;
+    width: 100%;
+}

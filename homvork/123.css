@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  height: 100vh;
+  background-image: url("https://wallpaperplay.com/walls/full/6/7/3/195941.jpg");
+  background-size: cover;
+}
+.column{
+  width: 25%;
+  float: left;
+  text-align: center;
+  border: 2px solid red;
+  padding: 5px;
+}
+
+@media (max-width: 767px){
+  .column{
+    width: 100%;
+  }
+}
+
+
+@media  (min-width: 768px)(max-width: 1023px){
+  .column{
+    width: 50%;
+  }
+}
+
+
+@media (min-width: 1024px){
+  .column{
+    width: 25%;
+  }
+}

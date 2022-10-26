@@ -1,0 +1,18 @@
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+table{
+  align-items: center;
+}
+.color{
+  background-color: yellow;
+}
+.blue{
+  background-color: blueviolet;
+}
+.yello{
+  background-color: green;
+}
